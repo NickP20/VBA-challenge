@@ -1,2 +1,2 @@
 # VBA-challenge
-VBA Homework: The VBA of Wall Street
+Wall Street Data analysis
